@@ -1,4 +1,6 @@
-## Welcome to QueeResearch, a survey on the state of research on individuals who identify as LGBTQI+!
+## Welcome to QueeResearch 
+
+#### A survey on the state of research on individuals who identify as LGBTQI+!
 
 ### What is QueeResearch survey?
 The LGBTQI community has sparked the interest of several researchers, for example in psychology, social science, or
