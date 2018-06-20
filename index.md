@@ -2,6 +2,12 @@
 
 #### A survey on the state of research on individuals who identify as LGBTQI+!
 
+* [What is QueeResearch survey?](#what-is-QueeResearch-survey)
+* [Who can participate in this survey?](#who-can-participate-in-this-survey)
+* [What kind of information will be collected?](#what-kind-of-information-will-be-collected)
+* [When will the survey start?](#when-will-the-survey-start)
+* [Who is running this survey?](#who-is-running-this-survey)
+
 ### What is QueeResearch survey?
 The LGBTQI community has sparked the interest of several researchers, for example in psychology, social science, or
 neuroscience. Very few of these studies are initiated by members of the community, and it is thus unclear whether the
@@ -25,6 +31,6 @@ format.
 ### When will the survey start?
 We are currently applying for approval to run this survey through an Institutional Review Board. Please stay tuned!
 
-### Who is running this survey and who can I contact for any questions?
+### Who is running this survey?
 For any questions or comments that you may have please contact [Athina Tzovara](athina.tz@gmail.com), or Bastian Greshake Tzovaras. For
 general comments or more information please visit the survey's [repository](https://github.com/aath0/MinoritiesInResearch).
