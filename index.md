@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to QueeResearch, a survey on the state of research on individuals who identify as LGBTQI+!
 
-You can use the [editor on GitHub](https://github.com/QueeResearch/QueeResearch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### What is QueeResearch survey?
+The LGBTQI community has sparked the interest of several researchers, for example in psychology, social science, or
+neuroscience. Very few of these studies are initiated by members of the community, and it is thus unclear whether the
+vast majority of them reflects the views and needs of folks who identify anywhere on the LGBTQI spectrum. In this survey,
+we want to evaluate how the general public, and individuals who identify as LGBTQI in particular, perceive research that
+concerns them, or their communities at large. We want to evaluate whether such research is perceived as (a) ethical, (b)
+useful, and (c) respectful.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Who can participate in this survey?
+Anyone! We want to hear by folks who identify anywhere on the LGBTQI+ spectrum, but also from individuals who identify
+as cis / straight. Although the survey asks about your experience with academic research, you do not need to have any
+direct research experience to take part in it!
 
-### Markdown
+### What kind of information will be collected?
+This survey will run on the soscisurvey.de platform. Soscisurvey won’t register the IP address of the device you are using. We
+do not have access to your name/email, and we have no way to know who you are. In this sense this is an anonymous
+survey. Once we complete the survey by collecting and analyzing the data, we will publish our findings in an open access
+format.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### When will the survey start?
+We are currently applying for approval to run this survey through an Institutional Review Board. Please stay tuned!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QueeResearch/QueeResearch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Who is running this survey and who can I contact for any questions?
+For any questions or comments that you may have please contact [Athina Tzovara](athina.tz@gmail.com), or Bastian Greshake Tzovaras. For
+general comments or more information please visit the survey's [repository](https://github.com/aath0/MinoritiesInResearch).
