@@ -32,5 +32,5 @@ format.
 We are currently applying for approval to run this survey through an Institutional Review Board. Please stay tuned!
 
 ### Who is running this survey?
-For any questions or comments that you may have please contact [Athina Tzovara](athina.tz@gmail.com), or Bastian Greshake Tzovaras. For
-general comments or more information please visit the survey's [repository](https://github.com/aath0/MinoritiesInResearch).
+For any questions or comments that you may have please contact [Athina Tzovara](https://github.com/aath0), or Bastian Greshake Tzovaras. For
+general comments or more information please visit the survey's [repository](https://github.com/aath0/MinoritiesInResearch) or our [gitter channel](https://gitter.im/URM_Research/Lobby#)!
