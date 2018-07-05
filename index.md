@@ -1,6 +1,6 @@
 ## Welcome to QueeResearch 
 
-#### A survey on the state of research on individuals who identify as LGBTQI+!
+#### An openly designed survey on the state of research on individuals who identify as LGBTQI+!
 
 ### Interested in taking the survey? [Let us know](https://docs.google.com/forms/d/e/1FAIpQLSf7uaxpk0VbUo4CiYDGjXOcT9YjJk7-uWz64Oijs0agIyPQYQ/viewform) and we will inform you as soon as the survey is ready!
 
