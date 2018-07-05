@@ -2,7 +2,9 @@
 
 #### A survey on the state of research on individuals who identify as LGBTQI+!
 
-* [What is QueeResearch survey?](#what-is-QueeResearch-survey)
+### Interested in taking the survey? [Let us know](https://docs.google.com/forms/d/e/1FAIpQLSf7uaxpk0VbUo4CiYDGjXOcT9YjJk7-uWz64Oijs0agIyPQYQ/viewform) and we will inform you as soon as the survey is ready!
+
+* [What is QueeResearch survey?](#what-is-queeresearch-survey)
 * [Who can participate in this survey?](#who-can-participate-in-this-survey)
 * [What kind of information will be collected?](#what-kind-of-information-will-be-collected)
 * [When will the survey start?](#when-will-the-survey-start)
