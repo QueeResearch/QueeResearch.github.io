@@ -32,9 +32,10 @@ format.
 We are currently applying for approval to run this survey through an Institutional Review Board. Please stay tuned!
 
 ### How can I get involved?
-If you want to participate in the survey please leave your email address [here](https://docs.google.com/forms/d/e/1FAIpQLSf7uaxpk0VbUo4CiYDGjXOcT9YjJk7-uWz64Oijs0agIyPQYQ/viewform). We will let you know once the survey is ready! 
-We are also welcoming contributions from anyone interested in helping us test and develop the survey! All steps of the survey have been openly developed [here](https://github.com/aath0/MinoritiesInResearch). Feel free to send us any comments via [email](mailto:queeresearch@gmail.com), or to join our [gitter channel](https://gitter.im/URM_Research/Lobby#)!
+If you want to participate in the survey [please leave your email address here](https://docs.google.com/forms/d/e/1FAIpQLSf7uaxpk0VbUo4CiYDGjXOcT9YjJk7-uWz64Oijs0agIyPQYQ/viewform). We will let you know as soon as the survey is ready! 
+
+We also welcome contributions in helping us test and develop the survey! The survey has [been openly developed here](https://github.com/aath0/MinoritiesInResearch). Feel free to send us any comments via [email](mailto:queeresearch@gmail.com), or to join our [gitter channel](https://gitter.im/URM_Research/Lobby#)!
 
 ### Who is running this survey?
-For any questions or comments that you may have please contact [Athina Tzovara](https://github.com/aath0), or Bastian Greshake Tzovaras. For
+For any questions or comments that you may have please contact [Athina Tzovara](https://github.com/aath0), or [Bastian Greshake Tzovaras](https://tzovar.as). For
 general comments or more information please visit the survey's [repository](https://github.com/aath0/MinoritiesInResearch) or our [gitter channel](https://gitter.im/URM_Research/Lobby#)!
