@@ -6,6 +6,7 @@
 * [Who can participate in this survey?](#who-can-participate-in-this-survey)
 * [What kind of information will be collected?](#what-kind-of-information-will-be-collected)
 * [When will the survey start?](#when-will-the-survey-start)
+* [How can I get involved?](#how-can-i-get-involved)
 * [Who is running this survey?](#who-is-running-this-survey)
 
 ### What is QueeResearch survey?
@@ -27,9 +28,12 @@ do not have access to your name/email, and we have no way to know who you are. I
 survey. Once we complete the survey by collecting and analyzing the data, we will publish our findings in an open access
 format.
 
-
 ### When will the survey start?
 We are currently applying for approval to run this survey through an Institutional Review Board. Please stay tuned!
+
+### How can I get involved?
+If you want to participate in the survey please leave your email address [here](https://docs.google.com/forms/d/e/1FAIpQLSf7uaxpk0VbUo4CiYDGjXOcT9YjJk7-uWz64Oijs0agIyPQYQ/viewform). We will let you know once the survey is ready! 
+We are also welcoming contributions from anyone interested in helping us test and develop the survey! All steps of the survey have been openly developed [here](https://github.com/aath0/MinoritiesInResearch). Feel free to send us any comments via [email](mailto:queeresearch@gmail.com), or to join our [gitter channel](https://gitter.im/URM_Research/Lobby#)!
 
 ### Who is running this survey?
 For any questions or comments that you may have please contact [Athina Tzovara](https://github.com/aath0), or Bastian Greshake Tzovaras. For
