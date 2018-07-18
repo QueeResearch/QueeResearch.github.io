@@ -39,5 +39,5 @@ If you want to participate in the survey [please leave your email address here](
 We also welcome contributions in helping us test and develop the survey! The survey has [been openly developed here](https://github.com/aath0/MinoritiesInResearch). Feel free to send us any comments via [email](mailto:queeresearch@gmail.com), or to join our [gitter channel](https://gitter.im/URM_Research/Lobby#)!
 
 ### Who is running this survey?
-For any questions or comments that you may have please contact [Athina Tzovara](https://github.com/aath0), or [Bastian Greshake Tzovaras](https://tzovar.as). For
+For any questions or comments that you may have please contact [Athina Tzovara](https://github.com/aath0), [Bastian Greshake Tzovaras](https://tzovar.as), or [Patricia Herterich](https://github.com/pherterich). For
 general comments or more information please visit the survey's [repository](https://github.com/aath0/MinoritiesInResearch) or our [gitter channel](https://gitter.im/URM_Research/Lobby#)!
